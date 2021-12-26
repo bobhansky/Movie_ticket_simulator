@@ -1,6 +1,7 @@
 # Movie_ticket_simulator
 a project  which has basic logic design to perform buy movie ticket.
 
+just logic with no UI
 
 
 1. Use  Logback(https://logback.qos.ch/) as log lib
