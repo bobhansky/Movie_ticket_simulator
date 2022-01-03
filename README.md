@@ -1,5 +1,5 @@
 # Movie_ticket_simulator
-a project  which has basic logic design to perform buy movie ticket.
+a project which has basic logic design to perform buy movie ticket.
 
 just logic with no UI
 
